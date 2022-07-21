@@ -1,0 +1,27 @@
+* {
+    transition: background 2s;
+    font-family: "Poppins", sans-serif;
+}
+
+.theme {
+    --primary: #222729;
+    --secondary: #FECF4B;
+    --accent: #F4966D;
+    --fontcolor: #fff;
+}
+
+/* Navbar */
+.navlist {
+    background-color: var(--primary);
+}
+
+.navlinks a:link,
+a:visited {
+    color: var(--secondary)
+}
+
+.navlinks a:hover {
+    color: var(--accent);
+}
+
+/* Content */
