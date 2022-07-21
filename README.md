@@ -1,2 +1,2 @@
 # reactjs-app
-Playground for using React.JS
+The place where I build my personal portfolio.
